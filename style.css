@@ -33,6 +33,11 @@ img{
 
 
 }
+.display{
+    width: 50rem;
+    background-color: black;
+    color: white;
+}
 
 section{
 
@@ -43,7 +48,7 @@ h2,h1{
 }
 h1
 {
-    color: green;
+    color: white;
     letter-spacing: 1px;
     font-size: 50px;
 }
